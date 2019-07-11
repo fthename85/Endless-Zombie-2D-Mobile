@@ -7,7 +7,7 @@ How to use open project folder:
 1. Install Unity 2018 or above version
 2. Create new project.
 3. Copy Assets and Project Settings from Project Folder.
-4. Paste it in your new project's folder.
+4. Paste it in your new project's folder. (You will see the same folder name, replace it)
 
 Things that I learned / Used during the work process:
 
