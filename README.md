@@ -9,6 +9,8 @@ How to use open project folder:
 3. Copy Assets and Project Settings from Project Folder.
 4. Paste it in your new project's folder. (You will see the same folder name, replace it)
 
+
+
 Things that I learned / Used during the work process:
 
 1. Interface
