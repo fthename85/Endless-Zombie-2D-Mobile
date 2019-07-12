@@ -11,7 +11,7 @@ How to use open project folder:
 
 -----------------------------------------------------
 
-Things that I learned / Used during the work process:
+Things that I learned / used during the work process:
 
 1. Interface
 2. Touchscreen Joystick
